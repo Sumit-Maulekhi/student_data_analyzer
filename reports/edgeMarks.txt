@@ -1,0 +1,15 @@
+
+top 3 highest marks of the class were :- 
+
+   Roll no.      Subject       Mark   
+      57         Math        99  
+      24         English        99  
+      20         Computer        98  
+
+
+top 3 lowest marks of the class were :- 
+
+   Roll no.      Subject       Mark   
+      45         Science        0  
+      36         Computer        1  
+      12         Science        2  
